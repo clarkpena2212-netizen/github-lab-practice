@@ -1,1 +1,1 @@
-I am Clark Pogi
+This is Student A's Project.
