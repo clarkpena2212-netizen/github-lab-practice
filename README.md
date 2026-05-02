@@ -1,2 +1,2 @@
 This is a Collaborative Project.
-by Student A and B.
+by Student a and b.
